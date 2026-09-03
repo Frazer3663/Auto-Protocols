@@ -5,7 +5,7 @@ This program will help you if you are tired of launching the same applications a
 How to use:
 1) Download the ZIP archive
 2) Unzip it into a separate folder
-3) Run the exe file
+3) Run the .exe file
 4) Everything is ready. You can use the application.
 
 If it doesn't work, try disabling your antivirus or adding the folder to exclusions.
